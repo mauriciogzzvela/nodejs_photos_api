@@ -1,14 +1,14 @@
-# nodejs_photos_api
-node.js photos api (node.js + express + mongo + typescript)
+# Nodejs_photos_api
+node.js + express + mongo + typescript
 
-#development
-npm run dev
+# development
+<code>npm run dev</code>
 
-#clear dist folder
-npm run clean
+# clear dist folder
+<code>npm run clean</code>
 
-#build proyect
-npm run build
+# build proyect
+<code>npm run build</code>
 
-#production
-npm run start
+# production
+<code>npm run start</code>
